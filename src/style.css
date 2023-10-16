@@ -1,0 +1,58 @@
+body {
+  height: 100vh;
+  margin: 0;
+  background-image: url(image/background.jfif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.watch {
+  height: 700px;
+  width: 700px;
+  border: 17px ridge darkgreen;
+  border-radius: 50%;
+  background-color: darkseagreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.watch__minute {
+  position: absolute;
+  background-color: #e7cc2e;
+  box-shadow: 10px 5px 15px rgb(98, 99, 72);
+  height: 300px;
+  width: 30px;
+  transform: translateY(-50%);
+  animation: clockwise 5s linear infinite;
+}
+.watch__hour {
+  position: absolute;
+  background-color: #d6e077;
+  box-shadow: 10px 5px 15px rgb(98, 99, 72);
+  height: 200px;
+  width: 30px;
+  transform: translateY(-50%);
+  animation: clockwise 72s linear infinite;
+}
+.watch__center {
+  background-color: darkgreen;
+  box-shadow: 3px 5px 6px rgb(0, 0, 0);
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  position: absolute;
+}
+
+@keyframes clockwise {
+  from {
+    rotate: 0deg;
+  }
+  to {
+    rotate: 360deg;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
