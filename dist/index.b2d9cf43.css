@@ -1,3 +1,62 @@
+body {
+  background-image: url("background.35827110.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+}
 
+.watch {
+  background-color: #8fbc8f;
+  border: 17px ridge #006400;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+  height: 700px;
+  display: flex;
+}
+
+.watch__minute {
+  background-color: #e7cc2e;
+  width: 30px;
+  height: 300px;
+  animation: 72s linear infinite clockwise;
+  position: absolute;
+  transform: translateY(-50%);
+  box-shadow: 10px 5px 15px #626348;
+}
+
+.watch__hour {
+  background-color: #d6e077;
+  width: 30px;
+  height: 200px;
+  animation: 5s linear infinite clockwise;
+  position: absolute;
+  transform: translateY(-50%);
+  box-shadow: 10px 5px 15px #626348;
+}
+
+.watch__center {
+  background-color: #006400;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  box-shadow: 3px 5px 6px #000;
+}
+
+@keyframes clockwise {
+  from {
+    rotate: none;
+  }
+
+  to {
+    rotate: 360deg;
+  }
+}
 
 /*# sourceMappingURL=index.b2d9cf43.css.map */
