@@ -27,7 +27,7 @@ body {
     width: 30px;
     transform: translateY(-50%);
 
-    animation: clockwise 72s linear infinite;
+    animation: clockwise 5s linear infinite;
   }
 
   &__hour {
@@ -38,7 +38,7 @@ body {
     width: 30px;
     transform: translateY(-50%);
 
-    animation: clockwise 5s linear infinite;
+    animation: clockwise 72s linear infinite;
   }
 
   &__center {

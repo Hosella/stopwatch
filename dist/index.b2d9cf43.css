@@ -24,7 +24,7 @@ body {
   background-color: #e7cc2e;
   width: 30px;
   height: 300px;
-  animation: 72s linear infinite clockwise;
+  animation: 5s linear infinite clockwise;
   position: absolute;
   transform: translateY(-50%);
   box-shadow: 10px 5px 15px #626348;
@@ -34,7 +34,7 @@ body {
   background-color: #d6e077;
   width: 30px;
   height: 200px;
-  animation: 5s linear infinite clockwise;
+  animation: 72s linear infinite clockwise;
   position: absolute;
   transform: translateY(-50%);
   box-shadow: 10px 5px 15px #626348;

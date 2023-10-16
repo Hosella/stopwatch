@@ -19,7 +19,7 @@
 86C:\Users\Сонік\Desktop\project\stopwatch\node_modules\cosmiconfig\dist\index.d.ts133419422612774225 0
 97C:\Users\Сонік\Desktop\project\stopwatch\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js133419422601804106 0
 99C:\Users\Сонік\Desktop\project\stopwatch\node_modules\lightningcss-win32-x64-msvc\package.json133419422601504104 0
-50C:\Users\Сонік\Desktop\project\stopwatch\dist133419559091241062 1
+50C:\Users\Сонік\Desktop\project\stopwatch\dist133419561403315613 1
 84C:\Users\Сонік\Desktop\project\stopwatch\node_modules\chokidar\lib\constants.js133419425132258641 0
 102C:\Users\Сонік\Desktop\project\stopwatch\node_modules\@parcel\workers\lib\process\ProcessChild.js133419422612484117 0
 118C:\Users\Сонік\Desktop\project\stopwatch\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\atrule133419422614924101 1
@@ -98,7 +98,7 @@
 80C:\Users\Сонік\Desktop\project\stopwatch\node_modules\import-fresh\index.js133419422601494123 0
 106C:\Users\Сонік\Desktop\project\stopwatch\node_modules\caniuse-lite\data\features\chacha20-poly1305.js133419422621454114 0
 87C:\Users\Сонік\Desktop\project\stopwatch\node_modules\nth-check\lib\esm\compile.js133419422602884389 0
-60C:\Users\Сонік\Desktop\project\stopwatch\src\style.scss133419559090781250 0
+60C:\Users\Сонік\Desktop\project\stopwatch\src\style.scss133419561301257958 0
 102C:\Users\Сонік\Desktop\project\stopwatch\node_modules\type-fest\source\union-to-intersection.d.ts133419422615014101 0
 90C:\Users\Сонік\Desktop\project\stopwatch\node_modules\caniuse-lite\data\regions\CN.js133419422622114104 0
 88C:\Users\Сонік\Desktop\project\stopwatch\node_modules\@parcel\utils\src\Deferred.js133419422610354108 0
@@ -2803,7 +2803,7 @@
 98C:\Users\Сонік\Desktop\project\stopwatch\node_modules\csso\node_modules\mdn-data\css\index.js133419422603034107 0
 81C:\Users\Сонік\Desktop\project\stopwatch\node_modules\color-convert\index.js133419422603614103 0
 116C:\Users\Сонік\Desktop\project\stopwatch\node_modules\@swc\helpers\src\_create_for_of_iterator_helper_loose.mjs133419422636244100 0
-69C:\Users\Сонік\Desktop\project\stopwatch\dist\index.b2d9cf43.css133419559091171062 0
+69C:\Users\Сонік\Desktop\project\stopwatch\dist\index.b2d9cf43.css133419561403215610 0
 105C:\Users\Сонік\Desktop\project\stopwatch\node_modules\csso\node_modules\mdn-data\css\properties.json133419422610714107 0
 112C:\Users\Сонік\Desktop\project\stopwatch\node_modules\csso\node_modules\mdn-data\css\properties.schema.json133419422610994109 0
 90C:\Users\Сонік\Desktop\project\stopwatch\node_modules\caniuse-lite\data\regions\BR.js133419422619824263 0
@@ -5925,7 +5925,7 @@
 68C:\Users\Сонік\Desktop\project\stopwatch\node_modules\.bin\svgo133419422649954108 0
 86C:\Users\Сонік\Desktop\project\stopwatch\node_modules\.bin\update-browserslist-db133419422649964105 0
 90C:\Users\Сонік\Desktop\project\stopwatch\node_modules\.bin\update-browserslist-db.cmd133419422649964105 0
-73C:\Users\Сонік\Desktop\project\stopwatch\dist\index.b2d9cf43.css.map133419559091221053 0
+73C:\Users\Сонік\Desktop\project\stopwatch\dist\index.b2d9cf43.css.map133419561403295647 0
 61C:\Users\Сонік\Desktop\project\stopwatch\dist\index.html133419557919962733 0
 72C:\Users\Сонік\Desktop\project\stopwatch\dist\stopwatch.59712999.js133419557920032736 0
 76C:\Users\Сонік\Desktop\project\stopwatch\dist\stopwatch.59712999.js.map133419557920282729 0
